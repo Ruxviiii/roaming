@@ -1,3 +1,4 @@
 # To Do
 
-- [ ] Headphone kabeltje zoeken
+- [ ] nieuwe item
+- [X] Headphone kabeltje zoeken
