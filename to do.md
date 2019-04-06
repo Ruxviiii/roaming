@@ -2,7 +2,7 @@
 
 list
 
-- [ ] Crazy Rich Asians
+- [X] Crazy Rich Asians
 - [ ] Met mij gaat het goed, met ons gaat het slecht
 - [ ] Cities of Splendor
 - [ ] Starship Troopers Booken
